@@ -1,0 +1,15 @@
+{
+  "name": "nolly-studio",
+  "description": "Cult UI's agent skills, packaged as a Claude plugin. Fork: Sudo-Dev-Mavs/cult-ui.",
+  "owner": {
+    "name": "Sudo-Dev-Mavs"
+  },
+  "plugins": [
+    {
+      "name": "cult-ui",
+      "source": "./.agents",
+      "description": "The agent skills the Cult UI repo ships: frontend-design craft doctrine, the components.build spec for composable React components, and motion performance fixes.",
+      "category": "Design"
+    }
+  ]
+}
